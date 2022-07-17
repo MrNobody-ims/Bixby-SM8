@@ -36,7 +36,7 @@ Click WA logo to Join Support Group 👇
   
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@MrNobody41/Bixby-SM8?v=1)
   
-     </div>
+  
 <br>
 <br >
 If Repl.it not working Try Termux for Qr scanning.Just Copy the Link Below in Termux
