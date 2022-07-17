@@ -1,5 +1,5 @@
 <div align="center">
-  <img border-radius: 15px src="http://wallup.net/wp-content/uploads/2017/11/17/241931-cyberpunk-futuristic-seok_chan_yoo.jpg" width="500" height="400"/>
+  <img border-radius: 15px src="http://wallup.net/wp-content/uploads/2017/11/17/241931-cyberpunk-futuristic-seok_chan_yoo.jpg" width="500" height="350"/>
   <p align="center">
 
 </p>
